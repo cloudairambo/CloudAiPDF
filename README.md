@@ -189,7 +189,18 @@ focused on building **free, privacy-respecting, high-quality online tools**.
 ## 🔗 Useful Links
 
 - 🌐 Website: https://www.cloudaipdf.com  
-- 🧰 PDF Tools: https://www.cloudaipdf.com/pdf-tools  
+- 🧰 PDF Tools: https://www.cloudaipdf.com/pdf-tools
+- 🔁 File Converter: https://www.cloudaipdf.com/universal-file-converter  
+- 🎬 Video Tools: https://www.cloudaipdf.com/video-tools  
+- 🖼️ Image Tools: https://www.cloudaipdf.com/image-tools  
+- 🔊 Audio Tools: https://www.cloudaipdf.com/audio-tools  
+- 🧮 Calculators: https://www.cloudaipdf.com/calculators  
+- 📊 Data Tools: https://www.cloudaipdf.com/data-tools  
+- 🛠️ Utility Tools: https://www.cloudaipdf.com/utility-tools  
+- 🔐 SSH Key Generator: https://www.cloudaipdf.com/ssh-key-generator  
+- 🎨 Favicon Generator: https://www.cloudaipdf.com/favicon-generator  
+- 🏢 Business Tools: https://www.cloudaipdf.com/business-tools  
+
 ---
 
 ## 🔗 CloudAiPDF – Full Tools Directory
@@ -240,12 +251,84 @@ Below is a categorized index of CloudAiPDF tools.
 - https://www.cloudaipdf.com/business-tools/invoice-generator
 
 </details>
+<details>
+<summary><strong>📊 Data Tools</strong></summary>
 
+- https://www.cloudaipdf.com/data-tools
+- https://www.cloudaipdf.com/data-tools/csv-to-json
+- https://www.cloudaipdf.com/data-tools/json-to-yaml
+- https://www.cloudaipdf.com/data-tools/yaml-to-json
+- https://www.cloudaipdf.com/data-tools/xml-to-json
+- https://www.cloudaipdf.com/data-tools/diff-checker
+- https://www.cloudaipdf.com/data-tools/duplicate-remover
+- https://www.cloudaipdf.com/data-tools/list-sorter
+- https://www.cloudaipdf.com/data-tools/random-selector
+- https://www.cloudaipdf.com/data-tools/data-validator
+- https://www.cloudaipdf.com/data-tools/data-compressor
+
+</details>
 ---
+<details>
+<summary><strong>🎬 Video Tools</strong></summary>
+
+- https://www.cloudaipdf.com/video-tools
+- https://www.cloudaipdf.com/video-tools/video-trimmer
+- https://www.cloudaipdf.com/video-tools/video-trim-advanced
+- https://www.cloudaipdf.com/video-tools/video-merger
+- https://www.cloudaipdf.com/video-tools/video-compressor
+- https://www.cloudaipdf.com/video-tools/video-format-converter
+- https://www.cloudaipdf.com/video-tools/video-to-gif
+- https://www.cloudaipdf.com/video-tools/extract-audio
+- https://www.cloudaipdf.com/video-tools/video-stabilizer
+- https://www.cloudaipdf.com/video-tools/video-crop
+- https://www.cloudaipdf.com/video-tools/video-speed-adjust
+- https://www.cloudaipdf.com/video-tools/video-reverse-play
+- https://www.cloudaipdf.com/video-tools/video-rotate-advanced
+- https://www.cloudaipdf.com/video-tools/video-volume-adjust
+- https://www.cloudaipdf.com/video-tools/video-mute
+- https://www.cloudaipdf.com/video-tools/video-watermark-add
+- https://www.cloudaipdf.com/video-tools/video-filter-apply
+- https://www.cloudaipdf.com/video-tools/video-thumbnail-extract
+
+</details>
+<details>
+<summary><strong>📁 File Conversion Tools</strong></summary>
+
+- https://www.cloudaipdf.com/universal-file-converter
+
+</details>
+
+<details>
+<summary><strong>👨‍💻 Developer Tools</strong></summary>
+
+- https://www.cloudaipdf.com/developer-tools
+- https://www.cloudaipdf.com/developer-tools/code-formatter
+- https://www.cloudaipdf.com/developer-tools/json-formatter
+- https://www.cloudaipdf.com/developer-tools/sql-formatter
+- https://www.cloudaipdf.com/developer-tools/base64-converter
+- https://www.cloudaipdf.com/developer-tools/hash-generator
+
+</details>
+
+<details>
+<summary><strong>🧰 Utility Tools</strong></summary>
+
+- https://www.cloudaipdf.com/utility-tools
+- https://www.cloudaipdf.com/utility-tools/case-converter
+- https://www.cloudaipdf.com/utility-tools/word-counter
+- https://www.cloudaipdf.com/utility-tools/markdown-previewer
+- https://www.cloudaipdf.com/utility-tools/url-encoder-decoder
+- https://www.cloudaipdf.com/utility-tools/color-converter
+- https://www.cloudaipdf.com/utility-tools/timestamp-converter
+- https://www.cloudaipdf.com/utility-tools/password-generator
+
+</details>
+
 
 <details>
 <summary><strong>🧮 Calculators</strong></summary>
 
+### 💰 Finance & Business
 - https://www.cloudaipdf.com/calculators
 - https://www.cloudaipdf.com/calculators/tax
 - https://www.cloudaipdf.com/calculators/salary
@@ -259,18 +342,100 @@ Below is a categorized index of CloudAiPDF tools.
 - https://www.cloudaipdf.com/calculators/profit-margin
 - https://www.cloudaipdf.com/calculators/depreciation
 - https://www.cloudaipdf.com/calculators/discount
-- https://www.cloudaipdf.com/calculators/tip
 - https://www.cloudaipdf.com/calculators/debt-equity
+- https://www.cloudaipdf.com/calculators/arr
+- https://www.cloudaipdf.com/calculators/irr
+- https://www.cloudaipdf.com/calculators/npv
+- https://www.cloudaipdf.com/calculators/working-capital
+- https://www.cloudaipdf.com/calculators/price-to-earnings
+- https://www.cloudaipdf.com/calculators/dividend-yield
+- https://www.cloudaipdf.com/calculators/inventory-turnover
+- https://www.cloudaipdf.com/calculators/payback-period
+- https://www.cloudaipdf.com/calculators/break-even
+- https://www.cloudaipdf.com/calculators/investment
+
+### 🧪 Science & Engineering
+- https://www.cloudaipdf.com/calculators/force
+- https://www.cloudaipdf.com/calculators/velocity
+- https://www.cloudaipdf.com/calculators/energy
+- https://www.cloudaipdf.com/calculators/momentum
+- https://www.cloudaipdf.com/calculators/projectile
+- https://www.cloudaipdf.com/calculators/centrifugal-force
+- https://www.cloudaipdf.com/calculators/lorentz-factor
+- https://www.cloudaipdf.com/calculators/ohms-law
+- https://www.cloudaipdf.com/calculators/electrical-power
+- https://www.cloudaipdf.com/calculators/electrical-resistance
+- https://www.cloudaipdf.com/calculators/capacitor
+- https://www.cloudaipdf.com/calculators/inductor
+- https://www.cloudaipdf.com/calculators/transformer
+- https://www.cloudaipdf.com/calculators/beam-deflection
+- https://www.cloudaipdf.com/calculators/hvac-load
+- https://www.cloudaipdf.com/calculators/fluid-mechanics
+- https://www.cloudaipdf.com/calculators/thermodynamics
+- https://www.cloudaipdf.com/calculators/gas-laws
+- https://www.cloudaipdf.com/calculators/wavelength
+- https://www.cloudaipdf.com/calculators/optic
+- https://www.cloudaipdf.com/calculators/scientific
+
+### 🧬 Chemistry
+- https://www.cloudaipdf.com/calculators/molarity
+- https://www.cloudaipdf.com/calculators/ideal-gas
+- https://www.cloudaipdf.com/calculators/ph-basic
+- https://www.cloudaipdf.com/calculators/ph-advanced
+- https://www.cloudaipdf.com/calculators/concentration
+- https://www.cloudaipdf.com/calculators/molecular-weight
+- https://www.cloudaipdf.com/calculators/stoichiometry
+- https://www.cloudaipdf.com/calculators/redox
+- https://www.cloudaipdf.com/calculators/material-properties
+
+### 📐 Math & Statistics
+- https://www.cloudaipdf.com/calculators/percentage
+- https://www.cloudaipdf.com/calculators/fraction
+- https://www.cloudaipdf.com/calculators/quadratic
+- https://www.cloudaipdf.com/calculators/matrix
+- https://www.cloudaipdf.com/calculators/statistics
+
+### 🧍 Health & Fitness
 - https://www.cloudaipdf.com/calculators/bmi
 - https://www.cloudaipdf.com/calculators/calorie
 - https://www.cloudaipdf.com/calculators/bmr
 - https://www.cloudaipdf.com/calculators/body-fat
 - https://www.cloudaipdf.com/calculators/ideal-weight
 - https://www.cloudaipdf.com/calculators/water-intake
+- https://www.cloudaipdf.com/calculators/blood-alcohol
+- https://www.cloudaipdf.com/calculators/sleep-calculator
+- https://www.cloudaipdf.com/calculators/body-water
+- https://www.cloudaipdf.com/calculators/fitness-calorie
+- https://www.cloudaipdf.com/calculators/pregnancy-due-date
+- https://www.cloudaipdf.com/calculators/ovulation
+
+### 🎓 Education & Lifestyle
+- https://www.cloudaipdf.com/calculators/gpa
+- https://www.cloudaipdf.com/calculators/grade
+- https://www.cloudaipdf.com/calculators/age-calculator
+- https://www.cloudaipdf.com/calculators/date-calculator
+- https://www.cloudaipdf.com/calculators/time-calculator
+- https://www.cloudaipdf.com/calculators/biorhythm
+- https://www.cloudaipdf.com/calculators/zodiac
+- https://www.cloudaipdf.com/calculators/numerology
+- https://www.cloudaipdf.com/calculators/luck-number
+- https://www.cloudaipdf.com/calculators/pet-age
+- https://www.cloudaipdf.com/calculators/travel-budget
+- https://www.cloudaipdf.com/calculators/recipe-scaler
+- https://www.cloudaipdf.com/calculators/cocktail-gen
+- https://www.cloudaipdf.com/calculators/random-team
 
 </details>
 
+
 ---
+<details>
+<summary><strong>🛠️ Utility & Generators</strong></summary>
+
+- https://www.cloudaipdf.com/ssh-key-generator
+- https://www.cloudaipdf.com/favicon-generator
+
+</details>
 
 <details>
 <summary><strong>🖼️ Image Tools</strong></summary>
@@ -285,6 +450,18 @@ Below is a categorized index of CloudAiPDF tools.
 - https://www.cloudaipdf.com/image-tools/image-crop
 - https://www.cloudaipdf.com/image-tools/image-rotate
 - https://www.cloudaipdf.com/image-tools/image-flip
+- https://www.cloudaipdf.com/image-tools/advanced-image-compressor
+- https://www.cloudaipdf.com/image-tools/advanced-image-editor
+- https://www.cloudaipdf.com/image-tools/image-brightness
+- https://www.cloudaipdf.com/image-tools/image-contrast
+- https://www.cloudaipdf.com/image-tools/image-saturation
+- https://www.cloudaipdf.com/image-tools/image-blur
+- https://www.cloudaipdf.com/image-tools/image-sharpen
+- https://www.cloudaipdf.com/image-tools/image-grayscale
+- https://www.cloudaipdf.com/image-tools/image-sepia
+- https://www.cloudaipdf.com/image-tools/image-text-overlay
+- https://www.cloudaipdf.com/image-tools/image-thumbnail-generator
+- https://www.cloudaipdf.com/image-tools/image-exif-data
 
 </details>
 
