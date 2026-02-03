@@ -210,7 +210,7 @@ All tools are available on the official website:
 
 Below is a categorized index of CloudAiPDF tools.
 
----
+
 
 <details>
 <summary><strong>📄 PDF Tools</strong></summary>
@@ -239,7 +239,7 @@ Below is a categorized index of CloudAiPDF tools.
 
 </details>
 
----
+
 
 <details>
 <summary><strong>🏢 Business Tools</strong></summary>
@@ -267,7 +267,7 @@ Below is a categorized index of CloudAiPDF tools.
 - https://www.cloudaipdf.com/data-tools/data-compressor
 
 </details>
----
+
 <details>
 <summary><strong>🎬 Video Tools</strong></summary>
 
@@ -428,7 +428,7 @@ Below is a categorized index of CloudAiPDF tools.
 </details>
 
 
----
+
 <details>
 <summary><strong>🛠️ Utility & Generators</strong></summary>
 
@@ -465,7 +465,7 @@ Below is a categorized index of CloudAiPDF tools.
 
 </details>
 
----
+
 
 <details>
 <summary><strong>🔁 Converter Tools</strong></summary>
@@ -478,7 +478,7 @@ Below is a categorized index of CloudAiPDF tools.
 
 </details>
 
----
+
 
 <details>
 <summary><strong>ℹ️ Legal & Info Pages</strong></summary>
@@ -491,7 +491,7 @@ Below is a categorized index of CloudAiPDF tools.
 
 </details>
 
----
+
 
 ---
 
